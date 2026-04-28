@@ -1,4 +1,4 @@
-# 💻 ПК мастер - Интернет-магазин электронной техники
+# 💻 ПК мастер - Интернет-магазин электронной техники..
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.95+-green)
